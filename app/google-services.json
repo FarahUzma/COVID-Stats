@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "868605145293",
+    "firebase_url": "https://covid-stats-28b4a.firebaseio.com",
+    "project_id": "covid-stats-28b4a",
+    "storage_bucket": "covid-stats-28b4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868605145293:android:6ed737641584fd3d79b984",
+        "android_client_info": {
+          "package_name": "m.covidstat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868605145293-pgbl9ptv3sc5pu4aeq7vr8km6d2k07o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqclJGJ9exziKsDwSDXHNOVq1j-acO9Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868605145293-pgbl9ptv3sc5pu4aeq7vr8km6d2k07o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

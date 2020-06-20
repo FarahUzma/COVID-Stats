@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="country_images">
+        <item>@drawable/china</item>
+        <item>@drawable/italy</item>
+        <item>@drawable/spain</item>
+        <item>@drawable/iran</item>
+        <item>@drawable/nkorea</item>
+        <item>@drawable/usa</item>
+        <item>@drawable/uk</item>
+        <item>@drawable/dubai</item>
+        <item>@drawable/germany</item>
+    </integer-array>
+
+</resources>
